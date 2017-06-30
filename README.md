@@ -48,7 +48,8 @@ We need to combine 2' of 1x2 with 2' of 2x4. We will need 10 1" 1/4 screws.
 * Cut the 4' long of 2x4 in half. 
 * Place one piece of 1x2 on top of one piece of 2x4 making sure that the 1x2 is aligned in the middle of the 2x4. (fig 1)  
 <img src="./figures/1.jpg" width=300/>  
-* Now let's screw them together. Make sure to screw the 2x4 first. From the top, place one screw approximately every 3" 1/2 using five 1" 1/4 screws. (fig 2)  
+
+* Now let's screw them together. Make sure to screw the 1x2 first. From the top, place one screw approximately every 3" 1/2 using five 1" 1/4 screws. (fig 2)  
 <img src="./figures/2.jpg" width=300/>  
 Repeat this step for both bow and stern.
 * You will notice that the screws don't reach the bottom. This is because bow and stern will have to be slightly tilted. As a consequence we'll have to trim the bottom. While looking at the two pieces of wood from the side, starting from the outside edge of the 2x4, trace a line at a 15 degree angle and cut. (fig 3)  
@@ -60,9 +61,9 @@ Since the bow and stern are tilted, the top and the bottom rails will have a dif
 * Get the four 12' 2x2 pieces and cut each of them in one piece that is 4' and one that is 8'.
 * Set the four pieces of 4' 2x2 aside, we'll need them later when we build the ribs.
 * Let's stitch the two 8' 2x2 pieces by using some plywood. Cut the plywood to yield 4 "slices" approximately 1" 1/2 tall and 4" wide.
-* Grab two of the four 8' 2x2 pieces and place them one in front of the other so that they touch. Lay the 2 pieces of plywood at each side and screw them together using four 2" 1/2 screws as shown in fig 4.  
+* Grab two of the four 8' 2x2 pieces and place them one in front of the other so that they touch. Lay the 2 pieces of plywood at each side and screw them together using four 2" 1/2 screws as shown in fig 4.    
 <img src="./figures/4.jpg" width=300/>  
-The arrows indicate the directions of the screws. Repeat this step for the other sides (another 3 times: the remaining top side and the two bottom sides).
+The arrows indicate the directions of the screws. Repeat this step for the other sides (another 3 times: the remaining top side and the two bottom sides).  
 * Now we have four 16' 2x2. Cut two of them (for the top part) so that they are approximately 15' 1/4 and the other two (for the bottom part) so that they are approximately 14' 1/8 long. Don't be too precise, account for error and cut them an inch longer. 
 
 ## Step 3 - Attaching the rails to bow and stern  
